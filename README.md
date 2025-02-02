@@ -1,2 +1,3 @@
 # Tria_project
-Piyush 
+Author - Piyush Darekar
+
